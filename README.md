@@ -24,22 +24,6 @@ Our goal is simple: **Make game creation accessible to everyone.**
 
 ---
 
-## 🎥 Project Demo
-
-> Watch Game Maker in action!
-
-<!-- Replace YOUR_VIDEO_ID with your YouTube video ID -->
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Game Maker Demo Video" width="800">
-  </a>
-</p>
-
-<p align="center">
-  ▶️ Click the thumbnail above to watch the demo.
-</p>
-
 ---
 
 ## ✨ Features
