@@ -69,9 +69,9 @@ Our goal is simple: **Make game creation accessible to everyone.**
 
 <!-- Replace the image paths with your actual screenshot paths -->
 
-|    Home Page   |  Game Preview  |
-| :------------: | :------------: |
-| Add Screenshot | Add Screenshot |
+| Home Page | Game Preview |
+|:---:|:---:|
+| ![Home Page](public/screenshots/home.png) | ![Game Preview](public/screenshots/preview.png) |
 
 ---
 
